@@ -9,13 +9,13 @@ services:
     autoDeploy: true
     envVars:
       - key: RENDER_APP_NAME
-        value: "jarvis"
+        value: "Jarvis"
       - key: RENDER_API
-        value: "rnd_JJiUXcvxvwRduIST8s2Ggo1llCWz"
+        value: "rnd_0z0ahsuIbQW9MoZ8PBEOVYWgbWrz"
       - key: SESSION_ID
-        value: "Jarvis_95u0_4w15_v0v0_wy52_w415_0vz0_w0zw_v427"
+        value: "Jarvis_z98v_81xy_6117_5308_0505_4v55_2x8u_w647"
       - key: DATABASE_URL
-        value: "postgresql://gourab_debnath_user:0J5k5PJsRL8kCpHnoUJgiW87bzGSbspj@dpg-d92ens7avr4c7387dru0-a.oregon-postgres.render.com/gourab_debnath"
+        value: "postgresql://puja_roy_user:DIEe6RPuGfeWgHJzofnBOGDSRfyIyaYO@dpg-d97n8t58nd3s73e3dgr0-a.oregon-postgres.render.com/puja_roy"
       - key: HANDLER
         value: "!"
       - key: WORK_TYPE
